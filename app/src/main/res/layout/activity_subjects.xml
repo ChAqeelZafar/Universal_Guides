@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/custombackground"
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
@@ -12,6 +13,8 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginTop="8dp"
+        android:background="@drawable/custombackground"
+
         ads:layout_constraintBottom_toTopOf="@+id/subjects_adView"
         ads:layout_constraintEnd_toEndOf="parent"
         ads:layout_constraintStart_toStartOf="parent"
@@ -34,6 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
+            android:background="@drawable/custombuttonbackground"
             android:padding="10dp">
 
             <TextView
@@ -90,7 +94,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:padding="30dp"
+        android:background="@drawable/custombackground"
         ads:cardCornerRadius="5dp"
         ads:cardElevation="8dp"
         ads:contentPadding="0dp"
@@ -102,9 +106,10 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="8dp"
+
             android:text="SUBJECTS"
             android:textSize="24sp"
+            android:background="@drawable/custombuttonbackground"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

@@ -47,7 +47,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:272823427142:android:16b9347b415c07ce",
         "android_client_info": {
-          "package_name": "com.aqeelzafar.universalguides"
+          "package_name": "com.aqeelzafar.firstyearguide"
         }
       },
       "oauth_client": [
@@ -55,7 +55,7 @@
           "client_id": "272823427142-blll0ihdvro2c64qhqh17jhfs81mjs3n.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.aqeelzafar.universalguides",
+            "package_name": "com.aqeelzafar.firstyearguide",
             "certificate_hash": "76a70204c150713aef47077a19920adbffe8525b"
           }
         },
@@ -84,7 +84,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:272823427142:android:26e8b2c08d778efd",
         "android_client_info": {
-          "package_name": "com.aqeelzafar.universalguidesfinal"
+          "package_name": "com.aqeelzafar.firstyearguide"
         }
       },
       "oauth_client": [
@@ -92,7 +92,7 @@
           "client_id": "272823427142-ed3ug29roj4obn75det6mmfi0dgc2r29.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.aqeelzafar.universalguidesfinal",
+            "package_name": "com.aqeelzafar.firstyearguide",
             "certificate_hash": "76a70204c150713aef47077a19920adbffe8525b"
           }
         },

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.aqeelzafar.universalguidesfinal.test" >
+    package="com.aqeelzafar.firstyearguide.test" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="16"
         android:targetSdkVersion="29" />
 
     <instrumentation
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.aqeelzafar.universalguidesfinal"
-        android:targetPackage="com.aqeelzafar.universalguidesfinal" />
+        android:label="Tests for com.aqeelzafar.firstyearguide"
+        android:targetPackage="com.aqeelzafar.firstyearguide" />
 
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 

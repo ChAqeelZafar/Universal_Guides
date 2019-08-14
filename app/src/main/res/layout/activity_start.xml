@@ -3,7 +3,110 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="@drawable/custombackground"
     android:layout_height="match_parent"
     tools:context=".StartActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="264dp"
+        android:layout_height="229dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/start_btn_1st"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/custombuttonbackground"
+        android:text="HSSC-1 1st Year"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="@+id/imageView"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn_rateus" />
+
+    <Button
+        android:id="@+id/start_btn_9th"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Get 9th class App"
+        android:textSize="20sp"
+        android:background="@drawable/custombuttonbackground"
+        app:layout_constraintEnd_toEndOf="@+id/start_btn_1st"
+        app:layout_constraintStart_toStartOf="@+id/start_btn_1st"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn_1st" />
+
+    <Button
+        android:id="@+id/start_btn_10th"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Get 10th class App"
+        android:textSize="20sp"
+        android:background="@drawable/custombuttonbackground"
+        app:layout_constraintEnd_toEndOf="@+id/start_btn_9th"
+        app:layout_constraintStart_toStartOf="@+id/start_btn_9th"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn_9th" />
+
+    <Button
+        android:id="@+id/start_btn_12th"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Get 12th class App"
+        android:textSize="20sp"
+        android:background="@drawable/custombuttonbackground"
+        app:layout_constraintEnd_toEndOf="@+id/start_btn_10th"
+        app:layout_constraintStart_toStartOf="@+id/start_btn_10th"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn_10th" />
+
+    <Button
+        android:id="@+id/start_btn_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/custombuttonbackground"
+        android:text="EXIT"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/start_btn_12th"
+        app:layout_constraintStart_toStartOf="@+id/start_btn_12th" />
+
+    <ImageButton
+        android:id="@+id/start_btn_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/custombuttonbackground"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:srcCompat="@drawable/shareicon" />
+
+    <ImageButton
+        android:id="@+id/start_btn_rateus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custombuttonbackground"
+        app:layout_constraintBottom_toBottomOf="@+id/start_btn_share"
+        app:layout_constraintEnd_toStartOf="@+id/start_btn_aboutus"
+        app:layout_constraintStart_toEndOf="@+id/start_btn_share"
+        app:layout_constraintTop_toTopOf="@+id/start_btn_share"
+        app:srcCompat="@drawable/rateicon" />
+
+    <ImageButton
+        android:id="@+id/start_btn_aboutus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custombuttonbackground"
+        app:layout_constraintBottom_toBottomOf="@+id/start_btn_rateus"
+        app:layout_constraintEnd_toEndOf="@+id/imageView"
+        app:layout_constraintTop_toTopOf="@+id/start_btn_rateus"
+        app:srcCompat="@drawable/infoicon" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
