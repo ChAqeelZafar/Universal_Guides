@@ -9,13 +9,14 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="264dp"
-        android:layout_height="229dp"
+        android:layout_width="229dp"
+        android:layout_height="234dp"
         android:layout_marginTop="32dp"
+        android:src="@drawable/logo"
+        android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@tools:sample/avatars" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/start_btn_1st"
@@ -76,7 +77,8 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/start_btn_12th"
-        app:layout_constraintStart_toStartOf="@+id/start_btn_12th" />
+        app:layout_constraintStart_toStartOf="@+id/start_btn_12th"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn_12th" />
 
     <ImageButton
         android:id="@+id/start_btn_share"

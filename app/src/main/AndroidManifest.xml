@@ -18,7 +18,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TempActivity" />
         <activity android:name=".PicturesActivity" />
         <activity android:name=".ChaptersActivity" />
 
@@ -27,7 +26,6 @@
             android:value="ca-app-pub-3940256099942544~3347511713" />
 
         <activity android:name=".SubjectsActivity" />
-        <activity android:name=".MainActivity"></activity>
     </application>
 
 </manifest>

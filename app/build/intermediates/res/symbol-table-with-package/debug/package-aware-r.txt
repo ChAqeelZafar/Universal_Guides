@@ -483,6 +483,7 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color toolbar
 color tooltip_background_dark
 color tooltip_background_light
 dimen abc_action_bar_content_inset_material
@@ -731,6 +732,7 @@ drawable ic_star_black_24dp
 drawable infoicon
 drawable loading
 drawable loadingplaceholder
+drawable logo
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -743,6 +745,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pic
 drawable placeholder
 drawable rateicon
 drawable shareicon
@@ -810,9 +813,6 @@ id chapters_loading_card
 id chapters_recycler
 id checkbox
 id chronometer
-id classes_adView
-id classes_loading_card
-id classes_recycler
 id classesviewholder_cardview
 id classesviewholder_text
 id clip_horizontal
@@ -862,7 +862,6 @@ id links
 id listMode
 id list_item
 id main
-id main_img_logo
 id message
 id middle
 id multiply
@@ -878,7 +877,6 @@ id parent
 id parentPanel
 id percent
 id photo
-id pictures_adView
 id pictures_loading_card
 id pictures_loading_progressbar
 id pictures_loading_textview
@@ -994,12 +992,10 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_about
 layout activity_chapters
-layout activity_main
 layout activity_o_slider
 layout activity_pictures
 layout activity_start
 layout activity_subjects
-layout activity_temp
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout fragment_single_image

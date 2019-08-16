@@ -32,7 +32,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.aqeelzafar.firstyearguide.TempActivity" />
         <activity android:name="com.aqeelzafar.firstyearguide.PicturesActivity" />
         <activity android:name="com.aqeelzafar.firstyearguide.ChaptersActivity" />
 
@@ -41,7 +40,6 @@
             android:value="ca-app-pub-3940256099942544~3347511713" />
 
         <activity android:name="com.aqeelzafar.firstyearguide.SubjectsActivity" />
-        <activity android:name="com.aqeelzafar.firstyearguide.MainActivity" />
         <activity
             android:name="app.slider.imagesliderlib.OSliderActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar" />

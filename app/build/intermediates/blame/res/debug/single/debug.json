@@ -12,6 +12,10 @@
         "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_star_black_24dp.png"
     },
     {
+        "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.JPG.flat",
+        "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\drawable\\logo.JPG"
+    },
+    {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_viewholder.xml.flat",
         "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\layout\\recycler_viewholder.xml"
     },
@@ -120,6 +124,10 @@
         "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_star_black_24dp.png"
     },
     {
+        "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic.jpg.flat",
+        "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\drawable\\pic.jpg"
+    },
+    {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -186,10 +194,6 @@
     {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_infoicon.xml.flat",
         "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\infoicon.xml"
-    },
-    {
-        "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
@@ -328,10 +332,6 @@
         "source": "C:\\Users\\johnWick\\.gradle\\caches\\transforms-2\\files-2.1\\f787bdf9a61968744f59ce4821bbd947\\jetified-OImagesSlider-v1.0.1-beta\\res\\layout\\activity_o_slider.xml"
     },
     {
-        "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_infoicon.png.flat",
         "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\infoicon.png"
     },
@@ -348,10 +348,6 @@
         "source": "C:\\Users\\johnWick\\.gradle\\caches\\transforms-2\\files-2.1\\6c4966afb09d34f8ef2b6e71e205fb4b\\core-1.0.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_infoicon.png.flat",
         "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\infoicon.png"
     },
@@ -360,16 +356,16 @@
         "source": "C:\\Users\\johnWick\\.gradle\\caches\\transforms-2\\files-2.1\\ad81921259784a0e5913533a7555cafc\\appcompat-1.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombuttonbackground.xml.flat",
+        "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\drawable\\custombuttonbackground.xml"
+    },
+    {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shareicon.png.flat",
         "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\shareicon.png"
     },
     {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
         "source": "C:\\Users\\johnWick\\.gradle\\caches\\transforms-2\\files-2.1\\ad81921259784a0e5913533a7555cafc\\appcompat-1.0.2\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombuttonbackground.xml.flat",
-        "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\drawable\\custombuttonbackground.xml"
     },
     {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loadingplaceholder.jpg.flat",
@@ -422,10 +418,6 @@
     {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "C:\\Users\\johnWick\\.gradle\\caches\\transforms-2\\files-2.1\\ad81921259784a0e5913533a7555cafc\\appcompat-1.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_temp.xml.flat",
-        "source": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\src\\main\\res\\layout\\activity_temp.xml"
     },
     {
         "merged": "C:\\Users\\johnWick\\AndroidStudioProjects\\UniversalGuidesFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",

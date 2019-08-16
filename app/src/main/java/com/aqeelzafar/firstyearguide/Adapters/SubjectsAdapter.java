@@ -42,11 +42,11 @@ public class SubjectsAdapter extends RecyclerView.Adapter<SubjectsAdapter.Holder
     @Override
     public Holder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         MobileAds.initialize(ctx,
-                ctx.getString(R.string.test_App_id));
+                ctx.getString(R.string.App_id));
 
         interstitialAd = new InterstitialAd(ctx);
-        interstitialAd.setAdUnitId(ctx.getString(R.string.test_ad_interstial_id));
-        AdRequest adRequest = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
+        interstitialAd.setAdUnitId(ctx.getString(R.string.subject_interstial_id));
+        AdRequest adRequest = new AdRequest.Builder()
                 .build();
         interstitialAd.loadAd(adRequest);
 
@@ -76,7 +76,7 @@ public class SubjectsAdapter extends RecyclerView.Adapter<SubjectsAdapter.Holder
                             @Override
                             public void onAdClosed() {
                                 // Step 2.1: Load another ad
-                                AdRequest adRequest = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
+                                AdRequest adRequest = new AdRequest.Builder()
                                         .build();
                                 interstitialAd.loadAd(adRequest);
 

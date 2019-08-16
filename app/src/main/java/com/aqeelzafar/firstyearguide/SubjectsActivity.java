@@ -89,10 +89,10 @@ public class SubjectsActivity extends AppCompatActivity {
 
     void loadAd(){
 
-        MobileAds.initialize(this, getString(R.string.test_App_id));
+        MobileAds.initialize(this, getString(R.string.App_id));
         adView = findViewById(R.id.subjects_adView);
 
-        AdRequest request = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR).build();
+        AdRequest request = new AdRequest.Builder().build();
 
         adView.loadAd(request);
 

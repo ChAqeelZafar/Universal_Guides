@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\061a5662aba4f95a932c5f6b1e9631ef\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.wailbabou:OImagesSlider:v1.0.1-beta] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\f787bdf9a61968744f59ce4821bbd947\jetified-OImagesSlider-v1.0.1-beta\AndroidManifest.xml:2:1-17:12
 MERGED from [com.github.techhuntdevelopers:AndroidAboutUs:1.0.3] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\2c5816561ad30a532bcd166c418247b8\jetified-AndroidAboutUs-1.0.3\AndroidManifest.xml:2:1-11:12
@@ -60,25 +60,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\johnWick
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\d3d5aba5aa952d4fc986100d59ba51c3\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\c2cb06c335ae8c8a4f7445610415fd27\protolite-well-known-types-16.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-ads-base:18.1.1] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\9e56a3138cd76c26d0dacd3211b8e0a8\play-services-ads-base-18.1.1\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:5:5-31:19
+ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [com.github.wailbabou:OImagesSlider:v1.0.1-beta] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\f787bdf9a61968744f59ce4821bbd947\jetified-OImagesSlider-v1.0.1-beta\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.wailbabou:OImagesSlider:v1.0.1-beta] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\f787bdf9a61968744f59ce4821bbd947\jetified-OImagesSlider-v1.0.1-beta\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.jrvansuita:IconHandler:v2.0.0] C:\Users\johnWick\.gradle\caches\transforms-2\files-2.1\73d79fec0b3c72963abe804c5319f2eb\jetified-IconHandler-v2.0.0\AndroidManifest.xml:11:5-15:19
@@ -159,32 +159,24 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.aqeelzafar.firstyearguide.TempActivity
-ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:21:9-50
-	android:name
-		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:21:19-47
 activity#com.aqeelzafar.firstyearguide.PicturesActivity
+ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.aqeelzafar.firstyearguide.ChaptersActivity
 ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:22:9-54
 	android:name
 		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:22:19-51
-activity#com.aqeelzafar.firstyearguide.ChaptersActivity
-ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:23:9-54
-	android:name
-		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:23:19-51
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:25:9-27:70
+ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:24:9-26:70
 	android:value
-		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:27:13-67
+		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:26:13-67
 	android:name
-		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:26:13-69
+		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:25:13-69
 activity#com.aqeelzafar.firstyearguide.SubjectsActivity
-ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:29:9-54
+ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:28:9-54
 	android:name
-		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:29:19-51
-activity#com.aqeelzafar.firstyearguide.MainActivity
-ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:30:9-59
-	android:name
-		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:30:19-47
+		ADDED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml:28:19-51
 uses-sdk
 INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\johnWick\AndroidStudioProjects\UniversalGuidesFinal\app\src\main\AndroidManifest.xml
